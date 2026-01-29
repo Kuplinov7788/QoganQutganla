@@ -5,7 +5,9 @@ const App = () => {
     <div>
       <header></header>
       <main>
-        <section></section>
+        <section>
+          <p>nimadur</p>
+        </section>
       </main>
 
       <footer></footer>
